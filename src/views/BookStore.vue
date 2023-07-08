@@ -25,8 +25,6 @@
             </BootstrapCardBody>
         </BootstrapCard>
     </div>
-
-
 </template>
 
 <script>
